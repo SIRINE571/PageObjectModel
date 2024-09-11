@@ -20,6 +20,7 @@ public WebDriver driver ;
 	}
 
 //identification des elements
+	//identification des elements
 
 		@FindBy(how = How.XPATH, using = "//a[normalize-space()='Blue Top']")
 		WebElement txt_produit1;
